@@ -10,4 +10,4 @@ As an Indians fan I wasn't thrilled with the 2016 result. Since the Indians now 
 
 ### Deriving Player Batting Value
 
-In an exercise in analysing MLB play-by-play data, I have derived from scratch a metric to evaluate player batting performance, finding the overall value (in terms of runs value added) that each player provided at the plate.
+In an exercise in analysing MLB play-by-play data, I have derived from scratch a metric to evaluate player batting performance, finding the overall value (in terms of runs value added) that each player provided at the plate in 2017.
