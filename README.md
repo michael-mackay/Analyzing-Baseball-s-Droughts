@@ -11,3 +11,7 @@ As an Indians fan I wasn't thrilled with the 2016 result. Since the Indians now 
 ### Deriving Player Batting Value
 
 In an exercise in analysing MLB play-by-play data, I have derived from scratch a metric to evaluate player batting performance, finding the overall value (in terms of runs value added) that each player provided at the plate in 2017.
+
+### Optimizing the Cleveland Indians' 2018 Batting Order
+
+The Cleveland Indians are in a strong position to compete in 2018. They are coming off of a very strong 2 year stretch and seem to have good control of the AL Central division. However, anything can happen in baseball and it would be smart for the Tribe to look for any edge they can manage. This is an analysis of the optimization of Cleveland's 2018 batting lineup, attempting to show one way that the Indians could maximize their run differential.
